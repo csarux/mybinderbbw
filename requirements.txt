@@ -1,0 +1,4 @@
+jupyter
+jupyterlab
+ipympl
+jupyter_bbox_widget
